@@ -1,0 +1,9 @@
+body{
+    background-color:cornflowerblue;
+    height: fit-content;
+    width: fit-content;
+    font-size: 20px;
+}
+li{
+    padding-top: 15px;
+}
